@@ -1,0 +1,21 @@
+{
+    "name": "kevin-kolor-theme",
+    "displayName": "kevin_kolor_theme",
+    "description": "a color theme based off the \"brand\" colors of kevin",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "kevin_kolor_theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kevin_kolor_theme-color-theme.json"
+            }
+        ]
+    }
+}
