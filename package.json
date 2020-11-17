@@ -2,8 +2,8 @@
     "name": "kevin-kolor-theme",
     "displayName": "KEVIN-KOLORS",
     "publisher": "dazon",
-    "description": "a color theme based off the \"brand\" colors of kevin",
-    "version": "0.0.3",
+    "description": "A soft color scheme with rich dark tones paired with bright, soothing pastels.",
+    "version": "0.1.2",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -11,16 +11,16 @@
         "Themes"
     ],
     "galleryBanner":{
-        "color":"#1C1F2A"
+        "color":"#1C1F2B"
     },
     "repository": "https://github.com/FakeDazon/kevin-kolor",
     "icon": "KEVIN-LOGO.png",
     "contributes": {
         "themes": [
             {
-                "label": "kevin_kolor_theme",
+                "label": "KEVIN-DARK",
                 "uiTheme": "vs-dark",
-                "path": "./themes/kevin_kolor_theme-color-theme.json"
+                "path": "./themes/KEVIN-DARK-color-theme.json"
             }
         ]
     }
