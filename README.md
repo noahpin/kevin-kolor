@@ -1,3 +1,11 @@
 
-# kevin-kolor
-wip vscode color theme with dark colors paired by soothing pastels
+# KEVIN-KOLORS
+
+A soft color scheme with rich dark tones paired with bright, soothing pastels.
+
+![screenshot](https://i.imgur.com/9bPuugg.png)
+
+###Contributing
+There are currently no set in place contributing guidelines, but please make a fork and pull request with suggestions.
+
+###License

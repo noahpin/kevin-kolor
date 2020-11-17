@@ -1,14 +1,20 @@
 {
     "name": "kevin-kolor-theme",
-    "displayName": "kevin_kolor_theme",
+    "displayName": "KEVIN-KOLORS",
+    "publisher": "dazon",
     "description": "a color theme based off the \"brand\" colors of kevin",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.51.0"
     },
     "categories": [
         "Themes"
     ],
+    "galleryBanner":{
+        "color":"#1C1F2A"
+    },
+    "repository": "https://github.com/FakeDazon/kevin-kolor",
+    "icon": "KEVIN-LOGO.png",
     "contributes": {
         "themes": [
             {
