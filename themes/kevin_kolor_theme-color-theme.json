@@ -390,13 +390,44 @@
       }
     },
     {
+      "name": "css var",
+      "scope": [
+        "variable.css",
+        "variable.argument.css"
+      ],
+      "settings": {
+        "foreground": "#efed9f",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "json key",
       "scope": [
         "support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#9be4d4",
+        "foreground": "#8CD8EC",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "js key",
+      "scope": [
+        "meta.object-literal.key.js"
+      ],
+      "settings": {
+        "foreground": "#8CD8EC",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "js property of var",
+      "scope": [
+        "variable.other.property.js",
+        "variable.other.object.property.js"
+      ],
+      "settings": {
+        "foreground": "#EFF0B2"
       }
     },
     {
@@ -406,6 +437,75 @@
       ],
       "settings": {
         "foreground": "#9be4d4"
+      }
+    },
+    {
+      "name": "html tags end and start",
+      "scope": [
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html"
+      ],
+      "settings": {
+        "foreground": "#f0feff"
+      }
+    },
+    {
+      "name": "html tags name",
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#8CD8EC"
+      }
+    },
+    {
+      "name": "html strings",
+      "scope": [
+        "string.quoted.double.html",
+        "string.quoted.single.html"
+      ],
+      "settings": {
+        "foreground": "#EFF0B2"
+      }
+    },
+    {
+      "name": "Markdown List",
+      "scope": [
+        "punctuation.definition.list.begin.markdown"
+      ],
+      "settings": {
+        "foreground": "#eeb0d9"
+      }
+    },
+    {
+      "name": "Markdown Styles",
+      "scope": [
+        "punctuation.definition.bold.markdown",
+        "punctuation.definition.italic.markdown",
+        "punctuation.definition.quote.begin.markdown"        
+      ],
+      "settings": {
+        "foreground": "#bd99db"
+      }
+    },
+    {
+      "name": "Markdown Code Styles",
+      "scope": [
+        "markup.inline.raw.string.markdown",
+        "markup.fenced_code.block.markdown"
+      ],
+      "settings": {
+        "foreground": "#EFF0B2"
+      }
+    },
+    {
+      "name": "Markdown Code Styles",
+      "scope": [
+        "punctuation.definition.raw.markdown",
+        "punctuation.definition.markdown"
+      ],
+      "settings": {
+        "foreground": "#bd99db"
       }
     }
   ]
