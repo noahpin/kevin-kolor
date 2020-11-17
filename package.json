@@ -16,18 +16,6 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/kevin_kolor_theme-color-theme.json"
             }
-        ],
-        "iconThemess": [
-            {
-                "id": "kevin_icon_theme",
-                "label": "Kevin_Ikons-Kolorful",
-                "path": "./icon themes/color/kevin-icon-theme.json"
-            },
-            {
-                "id": "kevin_mono_icon_theme",
-                "label": "Kevin_Ikons-Mono",
-                "path": "./icon themes/mono/kevin-icon-theme.json"
-            }
         ]
     }
 }
