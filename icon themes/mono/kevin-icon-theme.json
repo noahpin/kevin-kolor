@@ -1,0 +1,67 @@
+{
+    "iconDefinitions": {
+        "_root_folder_dark": {
+            "iconPath": "./icons/Folder_16x_inverse.svg"
+        },
+        "_root_folder_open_dark": {
+            "iconPath": "./icons/Folder_16x_inverse.svg"
+        },
+        "_python": {
+            "iconPath": "./icons/python.svg"
+        },
+        "_folder_open_dark": {
+            "iconPath": "./icons/Folder_16x_inverse.svg"
+        },
+        "_file_dark": {
+            "iconPath": "./icons/Folder_16x_inverse.svg"
+        },
+        "_root_folder": {
+            "iconPath": "./icons/Folder_16x_inverse.svg"
+        },
+        "_root_folder_open": {
+            "iconPath": "./icons/Folder_16x_inverse.svg"
+        },
+        "_folder_light": {
+            "iconPath": "./icons/Folder_16x_inverse.svg"
+        },
+        "_folder_open_light": {
+            "iconPath": "./icons/Folder_16x_inverse.svg"
+        },
+        "_file_light": {
+            "iconPath": "./icons/Folder_16x_inverse.svg"
+        }
+    },
+    "folderExpanded": "_folder_open_dark",
+    "folder": "_folder_dark",
+    "file": "_file_dark",
+    "rootFolderExpanded": "_root_folder_open_dark",
+    "rootFolder": "_root_folder_dark",
+    "fileExtensions": {
+        // icons by file extension
+    },
+    "fileNames": {
+        // icons by file name
+    },
+    "languageIds": {
+        "python": "_python"
+    },
+    "light": {
+        "folderExpanded": "_folder_open_light",
+        "folder": "_folder_light",
+        "rootFolderExpanded": "_root_folder_open",
+        "rootFolder": "_root_folder",
+        "file": "_file_light",
+        "fileExtensions": {
+            // icons by file extension
+        },
+        "fileNames": {
+            // icons by file name
+        },
+        "languageIds": {
+            // icons by language id
+        }
+    },
+    "highContrast": {
+        // overrides for high contrast
+    }
+}
